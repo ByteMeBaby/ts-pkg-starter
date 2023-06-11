@@ -19,3 +19,5 @@ import { package-name } from '@bytemebaby/package-name';
 ```
 
 ### API
+
+`Add your API documentation here.`
