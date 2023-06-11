@@ -31,3 +31,7 @@ Hey there 👋. I created this simple template for my own projects. Decided to m
 - `test:ci`: Run tests using vitest in CI mode.
 - `build:ci`: Build and bundle the project to ./dist using tsup in CI mode.
 - `release:ci`: Release a new version using changesets in CI mode.
+
+## Note
+
+I have published a demo package using this template. You can find it [here](https://www.npmjs.com/package/@bytemebaby/demo-ts-pkg-starter)
