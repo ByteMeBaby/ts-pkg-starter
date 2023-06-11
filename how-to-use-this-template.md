@@ -8,8 +8,10 @@ Hey there 👋. I created this simple template for my own projects. Decided to m
 4. Delete CHANGELOG.md
 5. Change LICENSE file and license fild in package.json file.
 6. This file uses changesets for versioning. If you don't want to use it, delete `version` script from package.json file and delete `.changeset` folder. More info can be found [here.](https://github.com/changesets/changesets/tree/main)
-7. Update .github/workflows/publish.yml and .github/workflows/tests.yml file with your own details.
-8. Delete .changeset folder.
+7. Rename github folder to .github
+8. Update .github/workflows/publish.yml and .github/workflows/tests.yml file with your own details.
+9. Delete .changeset folder.
+10. delete CHANGELOG.md file.
 
 ## Steps to publish
 
