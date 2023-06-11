@@ -1,6 +1,6 @@
 {
   "name": "@bytemebaby/demo-ts-pkg-starter",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A demo npm package of @bytemebaby/ts-pkg-starter",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
